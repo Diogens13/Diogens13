@@ -9,27 +9,19 @@
 <br/>
 
 ```
-    +------------------------------------------+
-    |                                          |
-    |    $ claude --vibe "build me a dapp"     |
-    |                                          |
-    |    > Smart contract written        ok    |
-    |    > Frontend deployed             ok    |
-    |    > Tests passing                 ok    |
-    |    > PnL still green               ok    |
-    |                                          |
-    |    [========================] 100%       |
-    |                                          |
-    +------------------------------------------+
+  +------------------------------------------+
+  |                                          |
+  |    $ claude --vibe "build me a dapp"     |
+  |                                          |
+  |    > Smart contract written        ok    |
+  |    > Frontend deployed             ok    |
+  |    > Tests passing                 ok    |
+  |    > PnL still green               ok    |
+  |                                          |
+  |    [========================] 100%       |
+  |                                          |
+  +------------------------------------------+
 ```
-
-<a href="https://claude.ai">
-  <img src="https://img.shields.io/badge/Powered_by_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</a>
-&nbsp;
-<a href="https://claude.ai/code">
-  <img src="https://img.shields.io/badge/Claude_Code-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=888888" alt="Claude Code" />
-</a>
 
 ---
 
