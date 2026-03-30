@@ -37,6 +37,7 @@
 ### `socials`
 
 <a href="https://t.me/Diogen7"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/diogens_13"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/diogens13"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/timur-diogen-b25a42396"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/jcswabk86osrtf66recpaois8"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spotify-Dark.svg" width="45" /></a>
