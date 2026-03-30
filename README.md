@@ -1,16 +1,54 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:1a1a1a&height=180&section=header" width="100%" />
 
-<!--
-**Diogens13/Diogens13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=2000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=300&height=45&lines=DIOGEN" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=888888&background=00000000&center=true&vCenter=true&width=500&lines=i+don't+write+code.+i+describe+visions.;claude+writes.+i+approve.;web3+%7C+solidity+%7C+blockchain;vibe+coding+is+not+laziness+--+its+philosophy" />
+
+<br/>
+
+```
+    +------------------------------------------+
+    |                                          |
+    |    $ claude --vibe "build me a dapp"     |
+    |                                          |
+    |    > Smart contract written        ok    |
+    |    > Frontend deployed             ok    |
+    |    > Tests passing                 ok    |
+    |    > PnL still green               ok    |
+    |                                          |
+    |    [========================] 100%       |
+    |                                          |
+    +------------------------------------------+
+```
+
+<a href="https://claude.ai">
+  <img src="https://img.shields.io/badge/Powered_by_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</a>
+&nbsp;
+<a href="https://claude.ai/code">
+  <img src="https://img.shields.io/badge/Claude_Code-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=888888" alt="Claude Code" />
+</a>
+
+---
+
+### `tech stack`
+
+<img src="https://skillicons.dev/icons?i=solidity,python,ts,js,react,nextjs,nodejs,hardhat&theme=dark" />
+
+---
+
+### `socials`
+
+<a href="https://t.me/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/YOUR_ID"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/YOUR_ID"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spotify-Dark.svg" width="45" /></a>
+
+<br/><br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:1a1a1a&height=120&section=footer" width="100%" />
