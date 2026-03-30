@@ -33,9 +33,12 @@
 
 ---
 
-### `tech stack`
+### `ai tools`
 
-<img src="https://skillicons.dev/icons?i=solidity,python,ts,js,react,nextjs,nodejs,hardhat&theme=dark" />
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>&nbsp;
+<a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=888888" alt="Claude Code" /></a>&nbsp;
+<a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>&nbsp;
+<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
 
 ---
 
